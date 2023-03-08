@@ -46,13 +46,13 @@ gui.createWorld.customize.setting.snowLayerTemp.tooltip=雪层产生的温度在
 gui.createWorld.customize.category.UNDERGROUND=地下设置
 gui.createWorld.customize.setting.bedrockLayers=基岩层
 gui.createWorld.customize.setting.bedrockLayers.tooltip=设置基岩层的数量
-gui.createWorld.customize.setting.useCaves=洞穴
+gui.createWorld.customize.setting.useCaves=洞穴生成
 gui.createWorld.customize.setting.useCaves.tooltip=启用洞穴生成
 gui.createWorld.customize.setting.caveChance=洞穴生成几率
 gui.createWorld.customize.setting.caveChance.tooltip=HIGHER values = FEWER caves
 gui.createWorld.customize.setting.caveDensity=洞穴密度
 gui.createWorld.customize.setting.caveDensity.tooltip=HIGHER values = BIGGER caves
-gui.createWorld.customize.setting.useRavines=山谷
+gui.createWorld.customize.setting.useRavines=山谷生成
 gui.createWorld.customize.setting.useRavines.tooltip=Enable ravine generation
 gui.createWorld.customize.setting.ravineChance=山谷生成几率
 gui.createWorld.customize.setting.ravineChance.tooltip=HIGHER values = FEWER ravines
@@ -80,21 +80,21 @@ gui.createWorld.customize.setting.RTGlakeShoreBend=岸边弯曲频率
 gui.createWorld.customize.setting.RTGlakeShoreBend.tooltip=调整湖岸的弯曲程度
 
 gui.createWorld.customize.category.VANILLASURFACELAKES=原版地表湖泊设置
-gui.createWorld.customize.setting.useWaterLakes=水湖
+gui.createWorld.customize.setting.useWaterLakes=水湖生成
 gui.createWorld.customize.setting.useWaterLakes.tooltip=启用原版的地表水湖
 gui.createWorld.customize.setting.waterLakeChance=原版地表水湖生成几率（1/x）
 gui.createWorld.customize.setting.waterLakeChance.tooltip=调整原版地表水湖生成几率
-gui.createWorld.customize.setting.useLavaLakes=岩浆湖
+gui.createWorld.customize.setting.useLavaLakes=岩浆湖生成
 gui.createWorld.customize.setting.useLavaLakes.tooltip=启用原版地表岩浆湖
 gui.createWorld.customize.setting.lavaLakeChance=原版地表岩浆湖生成几率（1/x）
 gui.createWorld.customize.setting.lavaLakeChance.tooltip=调整原版地表岩浆湖生成几率
 
 gui.createWorld.customize.category.VANILLAUNDERGROUNDLAKES=原版地下湖设置
-gui.createWorld.customize.setting.useWaterUndLakes=地下水湖
+gui.createWorld.customize.setting.useWaterUndLakes=地下水湖生成
 gui.createWorld.customize.setting.useWaterUndLakes.tooltip=启用原版的地下水湖
 gui.createWorld.customize.setting.waterUndLakeChance=原版地下水湖生成几率（1/x）
 gui.createWorld.customize.setting.waterUndLakeChance.tooltip=调整原版地下水湖生成几率
-gui.createWorld.customize.setting.useLavaUndLakes=岩浆湖
+gui.createWorld.customize.setting.useLavaUndLakes=岩浆湖生成
 gui.createWorld.customize.setting.useLavaUndLakes.tooltip=启用原版地下岩浆湖
 gui.createWorld.customize.setting.lavaUndLakeChance=原版地下岩浆湖生成几率（1/x）
 gui.createWorld.customize.setting.lavaUndLakeChance.tooltip=调整原版地下岩浆湖生成几率
@@ -109,7 +109,7 @@ gui.createWorld.customize.setting.lavaSpoutChance.tooltip=在山丘或洞穴的�
 gui.createWorld.customize.title.PAGE3=结构设置
 
 gui.createWorld.customize.category.VILLAGES=村庄设置
-gui.createWorld.customize.setting.useVillages=村庄
+gui.createWorld.customize.setting.useVillages=村庄生成
 gui.createWorld.customize.setting.useVillages.tooltip=启用村庄生成
 gui.createWorld.customize.setting.villageDistance=村庄间隔距离
 gui.createWorld.customize.setting.villageDistance.tooltip=各个村庄之间的最小距离
@@ -117,33 +117,33 @@ gui.createWorld.customize.setting.villageSize=村庄规模
 gui.createWorld.customize.setting.villageSize.tooltip=调整村庄的平均规模
 
 gui.createWorld.customize.category.MINESHAFTS=废弃矿坑设置
-gui.createWorld.customize.setting.useMineShafts=废弃矿坑
+gui.createWorld.customize.setting.useMineShafts=废弃矿坑生成
 gui.createWorld.customize.setting.useMineShafts.tooltip=启用废弃矿坑生成
 gui.createWorld.customize.setting.mineShaftChance=废弃矿坑生成几率
 gui.createWorld.customize.setting.mineShaftChance.tooltip=调整废弃矿坑生成的几率
 
 gui.createWorld.customize.category.DUNGEONS=地牢设置
-gui.createWorld.customize.setting.useDungeons=地牢
+gui.createWorld.customize.setting.useDungeons=地牢生成
 gui.createWorld.customize.setting.useDungeons.tooltip=启用地牢生成
 gui.createWorld.customize.setting.dungeonChance=地牢生成几率
 gui.createWorld.customize.setting.dungeonChance.tooltip=调整地牢生成的几率
 
 gui.createWorld.customize.category.TEMPLES=不固定结构设置
-gui.createWorld.customize.setting.useTemples=不固定结构结构
+gui.createWorld.customize.setting.useTemples=不固定结构结构生成
 gui.createWorld.customize.setting.useTemples.tooltip=启用不固定结构 (沙漠/丛林神殿、巫师小屋、雪地小屋等)
 gui.createWorld.customize.setting.templeDistance=不固定结构间距
 gui.createWorld.customize.setting.templeDistance.tooltip=不固定结构之间的距离
 
 gui.createWorld.customize.category.MONUMENTS=海洋神殿设置
-gui.createWorld.customize.setting.useMonuments=海洋神殿
+gui.createWorld.customize.setting.useMonuments=海洋神殿生成
 gui.createWorld.customize.setting.useMonuments.tooltip=启用海洋神殿生成
 gui.createWorld.customize.setting.monumentSeparation=神殿最小间距
 gui.createWorld.customize.setting.monumentSeparation.tooltip=海洋神殿之间的最小距离
 gui.createWorld.customize.setting.monumentSpacing=神殿最大间距
 gui.createWorld.customize.setting.monumentSpacing.tooltip=海洋神殿之间的最大距离
 
-gui.createWorld.customize.category.MANSIONS=林地府邸
-gui.createWorld.customize.setting.useMansions=林地府邸
+gui.createWorld.customize.category.MANSIONS=林地府邸设置
+gui.createWorld.customize.setting.useMansions=林地府邸生成
 gui.createWorld.customize.setting.useMansions.tooltip=启用林地府邸生成
 # TODO [1.12]: mansionSeparation and mansionSpacing are likely to be removed
 gui.createWorld.customize.setting.mansionSeparation=府邸最小间距
@@ -152,7 +152,7 @@ gui.createWorld.customize.setting.mansionSpacing=府邸最大间距
 gui.createWorld.customize.setting.mansionSpacing.tooltip=各个府邸间的最大间距
 
 gui.createWorld.customize.category.STRONGHOLDS=要塞设置
-gui.createWorld.customize.setting.useStrongholds=要塞
+gui.createWorld.customize.setting.useStrongholds=要塞生成
 gui.createWorld.customize.setting.useStrongholds.tooltip=启用要塞
 gui.createWorld.customize.setting.strongholdCount=要塞数量
 gui.createWorld.customize.setting.strongholdCount.tooltip=此世界生成的要塞总数
