@@ -90,7 +90,7 @@ gui.createWorld.customize.setting.lavaLakeChance=原版地表岩浆湖生成几�
 gui.createWorld.customize.setting.lavaLakeChance.tooltip=调整原版地表岩浆湖生成几率
 
 gui.createWorld.customize.category.VANILLAUNDERGROUNDLAKES=原版地下湖设置
-gui.createWorld.customize.setting.useWaterUndLakes=水湖
+gui.createWorld.customize.setting.useWaterUndLakes=地下水湖
 gui.createWorld.customize.setting.useWaterUndLakes.tooltip=启用原版的地下水湖
 gui.createWorld.customize.setting.waterUndLakeChance=原版地下水湖生成几率（1/x）
 gui.createWorld.customize.setting.waterUndLakeChance.tooltip=调整原版地下水湖生成几率
@@ -100,7 +100,7 @@ gui.createWorld.customize.setting.lavaUndLakeChance=原版地下岩浆湖生成�
 gui.createWorld.customize.setting.lavaUndLakeChance.tooltip=调整原版地下岩浆湖生成几率
 
 gui.createWorld.customize.category.VANILLASPOUTS=泉眼生成几率 (1/x)
-gui.createWorld.customize.setting.waterSpoutChance=水泉眼几率
+gui.createWorld.customize.setting.waterSpoutChance=水流泉眼几率
 gui.createWorld.customize.setting.waterSpoutChance.tooltip=在山丘或洞穴的一侧有1/x的几率生成水泉眼
 gui.createWorld.customize.setting.lavaSpoutChance=岩浆泉眼
 gui.createWorld.customize.setting.lavaSpoutChance.tooltip=在山丘或洞穴的一侧有1/x的几率生成岩浆泉眼
